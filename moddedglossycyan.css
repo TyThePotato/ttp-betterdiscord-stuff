@@ -2283,5 +2283,20 @@ div.help-text {
   top: 30%;
 }
 
+
+.container-RYiLUQ,
+.wrapper-2ldvyE,
+.private-channels .channel.selected a,
+.private-channels .channel:hover a
+{
+    background: transparent !important;    
+}
+.contentSelectedText-3j5CXt,
+.contentHoveredText-2HYGIY, 
+.contentHoveredVoice-3qGNKh:active, 
+.contentSelectedVoice-gTtYM9:active{
+    background-color: rgba(0,0,0,.3);
+}
+
 /****************************************************************/
 /**********************************************************************************************************************************/
